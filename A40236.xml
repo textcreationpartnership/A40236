@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant Christian-Quaker a sufferer by reliques of popery under all powers for thirty years last past who have persecuted for religion yet call the Holy Scriptures their rule, that justifieth no such practice / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40236</idno><idno type="EEBO-CITATION">11304868</idno>
+  <idno type="VID">47378</idno>
+  <idno type="EEBO-PROQUEST">2240870622</idno>
+  
+            <idno type="STC">Wing F1889</idno>
+            <idno type="STC">ESTC R30376</idno>
+            <idno type="OCLC">11304868</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant Christian-Quaker a sufferer by reliques of popery under all powers for thirty years last past who have persecuted for religion yet call the Holy Scriptures their rule, that justifieth no such practice / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47378:1"/>
+            <pb facs="tcp:47378:1"/>
+            <p>THE PROTESTANT Christian-Quaker A SUFFERER BY Reliques of Popery UNDER All Powers for Thirty Years last past, who have PERSECUTED for Reli<g ref="char:EOLhyphen"/>gion, yet call the Holy Scriptures their RULE, that justifieth No such Practice. By <hi>George Fox.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lumbard-street,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:47378:2"/>
+            <pb n="3" facs="tcp:47378:2"/>
+            <head>Here all may see what it is to be Conformable to the Death of the Son of God; and what it is to be Conformed to the Image of the Son of God; and also what it is to be Trans<g ref="char:EOLhyphen"/>formed from the World: And likewise, how that We, the People of God in Scorn called <hi>Quakers,</hi> are the <hi>True Protestants,</hi> and have Suffered this Thirty Years by All the Powers for not Conforming to the <hi>Reliques of Pope<g ref="char:EOLhyphen"/>ry,</hi> that have been held up by <hi>Presbyterians, Independents, Anabaptists</hi> and <hi>Protestants,</hi> so called, who say, <hi>The Scripture is their Rule;</hi> but yet never could make these <hi>Popish Re<g ref="char:EOLhyphen"/>liques</hi> good by Scripture, which they have practised, and for which we have Suffered.</head>
+            <epigraph>
+               <q>The <hi>Noble Bereans</hi> searched the Scriptures daily, to see whether those things were so as the Apostles preached,
+<bibl>
+                     <hi>Acts 17.10, 11.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>THE Apostle exhorts the <hi>Christians, To be Conformed to the Image of the Son of God,</hi> Rom. 8.29. <hi>Who is the Brightness of God's Glory, and the Express Image of his Substance,</hi> Hebr. 1.</p>
+            <p>And further, the Apostle saith, <hi>That I might know Christ, and
+<pb n="4" facs="tcp:47378:3"/>the Power of his Resurrection, and the Fellowship of his Sufferings, being made conformable to his Death.</hi>
+            </p>
+            <p>And also, the Apostle exhorts the Church, <hi>Rom.</hi> 12. saying, <hi>Be not Conformable to this World; but be you Transformed by renewing of your Mind, that you may prove what is that Good, that Accep<g ref="char:EOLhyphen"/>table and Perfect Will of God.</hi>
+            </p>
+            <p>Now here are three things for all <hi>Christians</hi> to mind:</p>
+            <p n="1">1st, First, <hi>They must be conformable to Christ's Death.</hi>
+            </p>
+            <p n="2">2dly, <hi>They must be conformed to the Image of the Son of God, who is the Brightness of the Glory of God, and the express Image of the Father's Substance.</hi>
+            </p>
+            <p n="3">3dly, Thirdly, <hi>They must not be Conformable to the World; but be Transformed from the World.</hi>
+            </p>
+            <p>Now to know what it is to be Transformed from the World, and not be Conformable to the World, first they must know what the World is, that they must not be Conformable unto, but be Trans<g ref="char:EOLhyphen"/>formed from.</p>
+            <p>Which the Apostle describes to be the Lust of the Eye, the Lust of the Flesh, and the Pride of Life, which is not of the Father, but of the World, and therefore must not be Conformed unto, nor Loved, but be Transformed from; for it passes away, and the Lust thereof.</p>
+            <p>
+               <hi>For if any man love the World</hi> (saith the Apostle) <hi>and the things of the World, the Love of the Father is not in him,</hi> John 1.2.</p>
+            <p>Now to be Conformable to Christ's Death, the Apostle saith, <hi>If they be dead with Christ, and Conformable to his Death, then they are dead with Christ from the Rudiments of the World, and they cannot be subject to the Worldly Ordinances, and Commandments, and Do<g ref="char:EOLhyphen"/>ctrines of Men.</hi>
+            </p>
+            <p>So here the World hath its Ordinances, its Commandments and its Doctrines, which are not to be touched, nor tasted, nor handled by them that are Conformable to the Death of Christ, and are dead with him, and so Conformable to the Image of the Son of God, <hi>who is the Brightness of God's Glory, and the Express Image of his Sub<g ref="char:EOLhyphen"/>stance.</hi>
+            </p>
+            <pb n="5" facs="tcp:47378:3"/>
+            <p>Now all such as are Conformable to the Death of Christ, and are dead with him, and are Conformed to the Image of the Son of God, which was the only Conformity the Apostle preached up; all such (1st,) cannot be Conformable to the World, nor to the Lust of the Eye, nor to the Lust of the Flesh, nor to the Pride of Life; (2dly,) nor to their Doctrines, nor Commandments of men, nor Ordinantes, nor Traditions, no not so much as to touch, taste or handle them; for they all perish with the using of them, saith the Apostle. But their Conformity must be to the Image of the Son of God, as the Apostles preached.</p>
+            <p>Now this Conformity to the Son of God was never held up nor defended by Outward Carnal Weapons, neither by Christ nor his Apostles: for Christ said, <hi>He came not to destroy men's Lives, but to save them.</hi>
+            </p>
+            <p>And the Apostles did affirm, that their War and Weapons were not Carnal, but Spiritual; and they did not wrestle with Flesh and Blood, but with the Powers of Darkness, and Spiritual Wicked<g ref="char:EOLhyphen"/>ness in High Places, for the plucking and pulling down the Castles and Strong Holds of Satan, which he had set up in Men and Wo<g ref="char:EOLhyphen"/>men's Hearts since they fell from God.</p>
+            <p>So its clear, the Apostles did not preach up a Conformity to the Image of the Son of God by Carnal Weapons.</p>
+            <p>So the Apostles that preached Conformity to the Image of the Son of God, and to his Death, did not Hang, Burn, Ba<g ref="char:EOLhyphen"/>nish, Imprison or Persecute any, or Cut Off the Ears, or Whip, or Spoil any Peoples Goods, that did not Conform to the Image of the Son of God, or Conform to his Death. Nay, they did not Imprison, Put to Death, or Spoil the Goods of any of them that were conformable to the World and their Doctrines; but in<g ref="char:EOLhyphen"/>vited them, and exhorted them, and shewed them the Danger, if they did not Conform to the Image of the Son of God, and receive his Grace, Light, Spirit, Truth and Gospel.</p>
+            <p>And they that did not Dye with Christ, could not Live with him; nor Suffer with him, could not Reign with him.</p>
+            <p>Now they that are conformable to the Image of the Son of God, are conformable to their Saviour, their Redeemer and Mediator, and to the New Covenant of Grace, Light and Life, and to the Worship in Spirit and Truth, and to the true Church which Christ
+<pb n="6" facs="tcp:47378:4"/>is the Infallible Head of, who hath destroyed the Devil and his I<g ref="char:EOLhyphen"/>mage, who is the Head of all false Images, and Image-makers and Worshippers.</p>
+            <p>And therefore it is but fit that all <hi>Christians</hi> should be conform<g ref="char:EOLhyphen"/>able to the Image of Christ; and unto the Happiness of this Con<g ref="char:EOLhyphen"/>formity the Devil is an Enemy, and Satan is an Adversary, and as he is a Devil, he seeks to destroy all them that are conformable unto it, and that bear the Image of the Son of God.</p>
+            <p>And now all the Doctrines, Rudiments and Commandments of men, which are not to be touched nor tasted, and so not to be con<g ref="char:EOLhyphen"/>formed unto, but transformed from; for they are but the Inventi<g ref="char:EOLhyphen"/>ons of such as have not heard God and Christs Voice, though they may have all the Form of Godliness both in the Old and New Testa<g ref="char:EOLhyphen"/>ment; and being out of the Power and Spirit that they were in that gave it forth, all such are to be turned away from, and not to be conformed unto, according to the Apostles Doctrine.</p>
+            <p>For it is the Power and Spirit of God and Christ that brings to turn away from them, and brings to be conformed to the Image of the Son of God, and so to do his Will, and to know his Doctrine that is from above.</p>
+            <p>Now the Doctrines, Ordinances, Commandments and Rudi<g ref="char:EOLhyphen"/>ments of the men of the World, they are below: <hi>For the World by Wis<g ref="char:EOLhyphen"/>dom knows not God;</hi> and they with their Wisdom would bring all men to a Conformity to their Image, like <hi>Nebuchadnezzer</hi> which he set up, and to fall down to it, else into his fiery Furnace they must be thrown, and <hi>Daniel</hi> must be cast into the Lyons Den.</p>
+            <p>So this was in the time of the Old Covenant amongst the <hi>Jews,</hi> who were to be conformable to the Law of God. So they were not to conform to the Ordinances or Commandments, and Decrees, and Wayes, and Worships of the men of the World, as <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> and <hi>Darius,</hi> and the like, about Religion.</p>
+            <p>Which Law and old Covenant that came by <hi>Moses,</hi> Christ hath abolished: But Grace and Truth is come by Jesus Christ, in his new Covenant, by which all must hear Christ, who is an infallible Propher, and an infallible Priest, who lives forever, and is an infallible Shep<g ref="char:EOLhyphen"/>herd and Bishop of Peoples Souls; and to his infallible Image must all true <hi>Christians</hi> be conformed.</p>
+            <p>Now since the Apostles dayes, how many Wayes, Religions,
+<pb n="7" facs="tcp:47378:4"/>Worships, Faiths and Creeds have been made by Men and Coun<g ref="char:EOLhyphen"/>cils, unto which Conformity hath been required; and yet they confess and say, <hi>They have not the same Power and Infallible Spirit as the Apostles had.</hi> So then it's clear they are not guided by the same infallible Spirit; and yet such take upon them to Judge of, and give forth Doctrines, Religions, Wayes, Worships, Faiths, and of mens Eternal-States, with their Fallible Spirit which they confess they are in; and then all their Religions, Wayes, Worships, Faiths, Doctrines, Creeds, Ordinances and Directories must be Fallible. And yet these are such as will Fine and Compel (with Carnal wea<g ref="char:EOLhyphen"/>pons) men to Conform, and fall down to, and conform to their fallible Wayes, Doctrines, Religions, Worships, Faiths, Creeds and Ordinances and Canons, by force of Carnal Weapons.</p>
+            <p>And what is this they would have Conformity to? But the Like<g ref="char:EOLhyphen"/>ness or Image of a Way, Religion, Faith and Worship, that is not set up by the same Infallible Spirit and Power as the Apostles were in: And because People will not conform and bow down to their Image of a Faith, Religion, Worship and Church, that their fal<g ref="char:EOLhyphen"/>lible Spirit hath set up; therefore they will Banish, Whip, Impri<g ref="char:EOLhyphen"/>son, Burn and Hang, or spoil the Goods of such as cannot conform to this their Image.</p>
+            <p>Now how many Images of Religions and Wayes have been set up since the Apostles dayes? And how much Blood hath been shed? And what Burning, Banishing, Killing, Hanging and spoiling of Goods hath been, for not conforming to the Image which this fallible Spirit hath set up? For they all confess they have not the same infallible Spirit and Power as the Apostles had: And yet these called <hi>Christi<g ref="char:EOLhyphen"/>ans</hi> will say the Scriptures are their Rule for their Life and Practice, &amp;c. Then let them come to the Rule and try their Practices by it.</p>
+            <p>For the Apostles did not Hang, Burn, Banish, or Imprison, or spoil the Goods of any that were not conformable to the Image of the Son of God, but still conformed to the World. Neither did they wrestle with Flesh and Blood; and the Weapons of their Warfare were Spiritual, and not Carnal, by which they wrestled with Spiritual Wickednesses, and pluckt down the strong Holds of Satan, which he the foul Spirit had set up in Men and Womens Hearts.</p>
+            <p>Now all you that wrestle with Flesh and Blood, with Carnal
+<pb n="8" facs="tcp:47378:5"/>Weapons, and have Hanged, Burned, Imprisoned, Banished and spoiled the Goods of such as could not conform to the Image of your Wayes, Religions, Faith and Worship, (who confess, as was be<g ref="char:EOLhyphen"/>fore said, that you have not the same Power and Spirit as the Apo<g ref="char:EOLhyphen"/>stles had) but conform to the Image of the Son of God, declared in the Scripture of the New Testament: In this your Practice the Scripture hath not been your Rule, if you will believe the A<g ref="char:EOLhyphen"/>postles and Christ's Doctrine, who said, <hi>he came to save mens Lives, and not to destroy them.</hi>
+            </p>
+            <p>But the <hi>Papists,</hi> they cry, <hi>Conform, Conform</hi> to their Image of <hi>Mass,</hi> &amp;c. or else away with them to the Inquisition, or Rack, or Torture, or the like.</p>
+            <p>And the <hi>Turk</hi> he cryes, <hi>Conform, Conform</hi> to his Image which <hi>Mahomet</hi> hath set up, and to their <hi>Alcoran.</hi>
+            </p>
+            <p>And did not the <hi>Heathen</hi> Emperors cry, <hi>Conform, Conform,</hi> and persecute the <hi>Christians,</hi> because they could not conform to their Idol Images, which they had set up?</p>
+            <p>And the <hi>Protestant</hi> he cryes <hi>Conform, Conform,</hi> or else Persecute and Imprison, as the many Goals do testifie.</p>
+            <p>And the <hi>Presbyterian</hi> he cryed, <hi>Conform, Conform</hi> to his Image the <hi>Directory,</hi> or else he will Hang them on his Gallows, and cut off the Ears, Banish, Whip, and spoil the Goods of all such as will not Conform, as witness the <hi>Presbyterian</hi> Priests and Magistrates in <hi>New-England;</hi> and also in Old <hi>England</hi> they were bad enough, who cryed, <hi>Conform, Conform</hi> to their <hi>Directory:</hi> And yet they confess also, that they have not the same Spirit and Power as the Apostles had.</p>
+            <p>And the <hi>Independants</hi> they cry, <hi>Conform, Conform</hi> to their Image, their <hi>Church-Faith</hi> they made at the <hi>Savoy</hi> in Eleaven dayes time; and so would have all to conform to their Church, Way, Faith and Worship, and give his Priests Maintenance and Tythes, or else he will fill his Prisons also with <hi>Non-Conformists,</hi> and there keep them to Death, and made many Widows and Fatherless.</p>
+            <p>And the <hi>Anabaptists</hi> they cry, <hi>Conform, Conform</hi> to their Image, and be of their Church, or else Persecute; as witness Priest <hi>Tomms</hi> of <hi>Lemster,</hi> who sued some Friends for Tythe Eggs.</p>
+            <p>So all these cry, <hi>Conform, Conform, Conform;</hi> but the Apostle saith, <hi>Touch not, Taste not, Handle not the Doctrines, Ordinances
+<pb n="9" facs="tcp:47378:5"/>and Commandments of men, and the Rudiments of the World; but be conformed to the Image of the Son of God, and be conformable to his Death, and be ye not conformable to the World; but be ye Trans<g ref="char:EOLhyphen"/>formed,</hi> &amp;c.</p>
+            <p>So every one that gets uppermost, and gets the Staff of Autho<g ref="char:EOLhyphen"/>rity, commands People to put into his Bag, and to feed their Priests with Tythes and set Maintenance, &amp;c. And the Priests cry, <hi>The Law of the Land requires it.</hi> But no Law or Command of Jesus requires it, who said, <hi>Freely you have received, freely give.</hi>
+            </p>
+            <p>So hath it not been the Beast and the Whore that did compel all with their Carnal Weapons to conform to their Images? But Christ and the Apostles did not compel any to conform by Carnal Weapons to his Image, neither did they spoil the Goods of any of those that would not be conformable to the Image of Christ.</p>
+            <p>Neither do you read that the <hi>Jews</hi> did compel any of the Nations they had Conquered, to be conformable to the Law of God, but they lived under them as Tributaries: But if of their own accord they would joyn with them in a Voluntary submission, they might.</p>
+            <p>Neither do we read that King <hi>Abimelech</hi> did go about to compel <hi>Abraham</hi> or <hi>Isaac</hi> to conform to his Religion, or that either <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> or <hi>Isaac</hi> went about to compel him or any of his Subjects, to conform to their God and his Law, by or with Carnal Weapons.</p>
+            <p>Neither do we read that <hi>Pharaoh</hi> did go about to compel by Car<g ref="char:EOLhyphen"/>nal Weapons the Children of <hi>Israel,</hi> which sojourned in his Country to be of his Religion.</p>
+            <p>Neither do we read that <hi>Joseph,</hi> when he had great power in <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> next unto the King, did go about to compel any of the <hi>Ae<g ref="char:EOLhyphen"/>gyptians</hi> to be of his Religion, or that <hi>Pharaoh</hi> did go about to com<g ref="char:EOLhyphen"/>pel him to his Religion by carnal Weapons.</p>
+            <p>Neither do we read that any of those famous Fathers in the old World, from <hi>Seth</hi> to <hi>Noah,</hi> did go about to compel with carnal Weapons the stock of <hi>Cain,</hi> to be conformable to their Religion.</p>
+            <p>But all are to be conformable to the Image of the Son of God: for that is an Infallible Conformity to an Infallible Image: For Christ destroys the Devil and his Works, who is the Head of all false and fallible Images, and Likenesses, and false Wayes, Religi<g ref="char:EOLhyphen"/>ons, Doctrines, Ordinances and Rudiments of the World, which are not to be touched, tasted nor handled, and so not to be conform<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:47378:6"/>unto. For by one man's disobedience came Sin and Death unto Condemnation upon all men: And so by one mans obedience, Christ Jesus, is Justification of Life come upon all men; and so Christ hath tasted Death for every man, that they might be conformable unto his Death; and he hath enlightned all men that come into the World, that by it they might come to the knowledge of him, and so to be conformable to his holy and glorious Image, who bruises the Head of all the false Images and Likeness-makers.</p>
+            <p>And his Grace which bringeth Salvation, hath appeared to all men, to teach them, that they may deny all Ungodliness and Un<g ref="char:EOLhyphen"/>righteousness, and the Lusts of the World, and not be conform<g ref="char:EOLhyphen"/>able unto them, but to be conformable unto the glorious Image of the Son of God, in his Light, Grace, Truth, Spirit, Gospel and Faith that comes from him, the Author of it. And so be made Conformable unto his Death, and to his Image of Righ<g ref="char:EOLhyphen"/>teousness and Holiness; and not to be Conformable unto the World's Lusts, nor Vanities, nor their Images, nor Likenesses of Wayes, Worships, Doctrines, Ordinances, Churches, Faiths and Creeds, which they have set up with their Fallible Spirit; but to be conformed to the Image of the Son of God, which is the Universal Conformity that ought to be by all the Believers in Christ Jesus, which is the alone Infallible Conformity in the Infallible Spirit of Christ, to his Infallible Image, who is the Brightness of God's Glo<g ref="char:EOLhyphen"/>ry, and the express Image of his Substance, whose Image never changes; so a Conformity to an Unchangeable Image, whose Image never fell, who is the Brightness of the Glory of God, and the ex<g ref="char:EOLhyphen"/>press Image of the Father's Substance.</p>
+            <p>So he is over all, and liveth forever, who is the First and Last, in whom all Nations are blessed, who destroyeth the Devil and his Works, and bruiseth his Head, and defaceth his Image, in whom all Nations have been Cursed.</p>
+            <p>So to this Glorious Unchangeable Image of the Son of God, the Second <hi>Adam,</hi> that never fell, in whose Mouth there was no Guile, who came to save mens Lives, and not to destroy them; I say, un<g ref="char:EOLhyphen"/>to his Image must all be Conformable, who destroyes the Devil that hath destroyed mens Lives, because they would no Conform to their False and Changeable Religions, Wayes, Worships and Faiths.</p>
+            <pb n="11" facs="tcp:47378:6"/>
+            <p>But Christ nor his Apostles in the New Covenant did never de<g ref="char:EOLhyphen"/>stroy the Lives of any, nor spoil the Goods of any, because they would not be conformable to Christs Way, Religion, Church, Faith and Worship; but if they would not be perswaded, they left them to the Judgment of the Lord.</p>
+            <p>Therefore, how far are men degenerated since the Apostles days, from the Apostles Warfare and Weapons, Doctrine, Faith, Wor<g ref="char:EOLhyphen"/>ship, Church and Image, that they were conformable unto? Let them that are conformed to the Image of the Son of God judge.</p>
+            <p>And thus People having erred from the Spirit of God and Christ, and hating his Light, and walking despightfully against the Spirit of Grace, not being conformable to the Image of the Son of God in themselves, but are conformable to the Spirit of the World in them, which Lusts to Envy, by which they have set up their Doctrines, Commandments, Ordinances, Wayes and Worships, and cryed, <hi>Conform, Conform to them;</hi> though they be uncertain how long their Way, Worship and Religion shall stand, which hath been no longer, than till another Power get up over them, of another Way, Religion and Worship, which calls to them, to Conform to their Way.</p>
+            <p>And from this Fallible Spirit hath all the Persecution and Blood<g ref="char:EOLhyphen"/>shed been about Religion, and Spoiling of Goods, Imprisonments and Banishments since the Apostles dayes, who are erred from the same Spirit and Power the Apostles were in, and so from their Spi<g ref="char:EOLhyphen"/>ritual Weapons also.</p>
+            <p>And the Apostle saith to the <hi>Galatians, How turn you again to the Weak and Beggarly Rudiments of the World, whereinto you desire again to be in Bondage! ye Observe Dayes, and Times, and Moneths, and Years; I am afraid of you, lest I have bestowed on you Labour in vain,</hi> Gal. 4.</p>
+            <p>And doth not the Apostle here call these Beggarly Elements of the World?</p>
+            <p>And did not the Apostle say while he was amongst the <hi>Jews,</hi> and under these Elements of the World, <hi>He was Carnal, sold under Sin?</hi> Rom. 7.14.</p>
+            <p>And did not the Apostle say, <hi>That Christ was an High Priest, not made after the Law of a carnal Commandment, but after the Power of an Endless Life?</hi> Heb. 7.</p>
+            <pb n="12" facs="tcp:47378:7"/>
+            <p>And again, doth not the Apostle set forth, <hi>How that the First Co<g ref="char:EOLhyphen"/>venant had worldly Ordinances, &amp;c. and had outward Lights and Lamps; and their outward Services which stood in Meats and Drinks, and divers outward Washings, and carnal Ordinances; these things were imposed upon them until the time of Restitution came?</hi> Heb. 9.</p>
+            <p>So, doth not the Apostle call all these Outward Things in the old Covenant, which were seen with the Carnal Eye, Worldly and Carnal, which the <hi>Jews</hi> were to be conformable unto in the old Co<g ref="char:EOLhyphen"/>venant, which served until the time of Reformation by Christ, who Reforms People out of those Carnal Worldly Elements and Rudi<g ref="char:EOLhyphen"/>ments in his New Covenant of Light and Grace; so that they come to be conformable to his Death, and to his Image; and not to be Conformable to the World's Elementary things, which pass away?</p>
+            <p>And Christ saith, <hi>The World hated him, and he was not of the World, but testified against it, and therefore it hated him.</hi>
+            </p>
+            <p>And he said unto his Disciples, <hi>That they were not of the World, as he was not of the World;</hi> and therefore they were to be conformable to the Image of Christ, and not to the Image of the World.</p>
+            <p>And the Apostle said, <hi>The World by Wisdom knew not God; and the Wisdom of the World is Foolishness; and the Fashion of this World passeth away.</hi>
+            </p>
+            <p>So can People that are Conformable to the Image of the Son of God, who is not of the World, be Conformable to the World's Wisdom and Fashions that pass away, and to that Wisdom which is Foolishness, by which they do not know God?</p>
+            <p>And therefore, as Christ said, <hi>They that are of the World, speak of the World;</hi> but he is not of the World, unto whose Image every true Believer must be conformable.</p>
+            <p>And <hi>John</hi> said, <hi>Whosoever is born of God, Overcometh the World; and this is the Victory that overcometh the World, even your Faith, which Faith Jesus Christ is the Author and Finisher of.</hi>
+            </p>
+            <p>And he said to the true Believing Christians in his General Epistle, <hi>We are of God, and the whole World lieth in Wickedness.</hi>
+            </p>
+            <p>And again, <hi>John</hi> saith, <hi>Little Children you have Overcome the World, because greater is he that is in you, than he that is in the World; and they that are of the World, speak of the World, and the World heareth them; and we are of God; and he that knoweth God heareth
+<pb n="13" facs="tcp:47378:7"/>us, and he that is not of God heareth not us; hereby know we the Spi<g ref="char:EOLhyphen"/>rit of Truth, and the Spirit of Error.</hi>
+            </p>
+            <p>So its clear, that <hi>John</hi> here and the true Church of Christ was conformed to the Image of the Son of God, and not to the World, nor their Wayes, nor Wisdom, by which they knew not God; but said, they had Victory over the World; and their Victory was their Faith: so then they were not like to conform to that which they had Victory over.</p>
+            <p>And therefore by the World and its Spirit they suffered, for not being conformable to its Wayes and Ordinances; for the Spirit of God cannot be conformable to the Spirit of the World, nor its Image, but brings to be conformed to the Image of the Son of God, whose Image is the brightness of the Glory of God, and ex<g ref="char:EOLhyphen"/>press Image of the Father's Substance.</p>
+            <div type="part">
+               <p>THe Lord hath chosen us a People to himself, and led us by his Light out of Darkness, and by his Power from under the Power of Satan, and by his holy pure Spirit, Grace and Truth, which we received of Christ Jesus, and by it to follow him, who is not of the World; and so to walk in him, who is the New and Li<g ref="char:EOLhyphen"/>ving Way, by whom all things were made and created, who is our Rest, Peace and Salvation, our Rock, Foundation and Mediator, who makes our Peace betwixt us and God, and he is our Priest Prophet, Shepherd and Bishop of our Souls, in his Grace, Truth, Gospel and Spirit, which is come from him, by it we are joyned to him; and so through Christ, with his Light, Power and Spirit we do see over all the Wayes, Religions and Worships, and the Churches, which men that are fallen from the Spirit and Power that Christ and his Apostles were in, have set up; and cannot joyn unto, nor walk in any of their Wayes, Religions and Worships, but in that new and living Way, that was set up above sixteen hundred years since, and in that Faith which Christ is the Author and Finisher of now, as he was in the Apostles dayes; and in that Religion which was set up above Sixteen Hundred Years since, which is pure and undefiled before God, and keeps from the Spots of the World;
+<pb n="14" facs="tcp:47378:8"/>and in that Worship which Christ set up in the Spirit and Truth, which comes by him, which he set up above sixteen hundred years since.</p>
+               <p>And we do joyn to that Church which is come to the heavenly <hi>Jerusalem,</hi> and the <hi>Spirits of just men made Perfect,</hi> which are the living Stones, and spiritual Houshold; not a carnal Houshold, with their carnal <hi>Jerusalem,</hi> and carnal worldly Sanctuaries and Temples.</p>
+               <p>And this Church is a holy Priesthood, offering up spiritual Sacri<g ref="char:EOLhyphen"/>fices unto God; of which Church Christ is the heavenly and spiri<g ref="char:EOLhyphen"/>tual Head and Husband; and so their heavenly Prophet and Bishop, and spiritual Priest, that lives forever in his Church.</p>
+               <p>And now, we have been branded, as being <hi>Papists and Jesuits, and Popishly affected.</hi> But be it known to all the World, That we are neither <hi>Papists</hi> nor <hi>Popishly</hi> affected; for our Religion, Way and Worship, and the Grace, Truth, Spirit, Faith and Gospel of Christ, which we walk and live in, was before the Pope, Papists and Jesuits, and their Religions and Worships were.</p>
+               <p>And we have suffered in the dayes of <hi>Oliver Cromwell,</hi> and in his <hi>Long-Parliament-Time;</hi> and before <hi>Oliver</hi> was Pro<g ref="char:EOLhyphen"/>tector we suffered by Papists Laws, and Laws made in Queen <hi>Mary</hi>'s time.</p>
+               <p>And we suffered in the dayes of the <hi>Presbyterians, Independents,</hi> and <hi>Anabaptists,</hi> and now by the <hi>Episcopalians.</hi>
+               </p>
+               <p>And the chief cause of all our Sufferings, that have been by all these that have had Power, was for denying, and not joyning to the Po<g ref="char:EOLhyphen"/>pish and Jesuitical Wayes, and the Reliques of the Papists, which they held up and allowed of amongst them.</p>
+               <p>As <hi>First,</hi> For our not paying the <hi>Presbyterian</hi> Priests, <hi>Independents</hi> and <hi>Baptists,</hi> and now the <hi>Episcopalians,</hi> their Tythes, Easter<g ref="char:EOLhyphen"/>reckonings, Midsummer-dues, Mortuaries, and such like, and Surplices, Pulpit-clothes and Cushions, and Steeple-house or old Mass-house Rates; and Clerks Wages, and such like Services.</p>
+               <p>Now hath not the Pope and the Papists been the Founders of all these things, and not Christ nor his Apostles? and do not all these things stink of Popery? for Christ saith to his Ministers, that he made and sent forth to preach; <hi>Freely you have received, Freely give.</hi> And the Apostle saith, <hi>He coveted no mans Silver, or Gold, or Ap<g ref="char:EOLhyphen"/>parel;
+<pb n="15" facs="tcp:47378:8"/>but kept the Gospel without Charge;</hi> and declared against Co<g ref="char:EOLhyphen"/>vetous Teachers.</p>
+               <p>And Christ said, <hi>The ontward Temple should be thrown down, and not one Stone left upon another; for he would build up a Temple of li<g ref="char:EOLhyphen"/>ving Stones; a spiritual Houshold,</hi> in his new Covenant, whose hous<g ref="char:EOLhyphen"/>hold the true <hi>Christians</hi> are.</p>
+               <p>And <hi>Stephen</hi> and the Apostle said, <hi>The most High did not dwell in Temples made with hands.</hi>
+               </p>
+               <p>And moreover the Apostle said, <hi>That the Bodies of the Saints were the Temples of God and of Christ, and of his holy Ghost.</hi>
+               </p>
+               <p>So then they were not like to Mend or Repair the old Temple and Houses, and call them Churches, whenas they said, <hi>The most High dwelt not in Temples made with hands, but their Bodies were the Temples of the holy Ghost.</hi> And so Christ preached or prophesied, <hi>That they should be thrown down;</hi> and the Apostles preached them down, and said, <hi>The Bodies of the Believers were the Temples of the Living God.</hi>
+               </p>
+               <p n="2">2dly, We have suffered because we would not bring our Infants, and give the Priest Money for to sprinkle them; and Church our Women: And because we would not Marry with the Priest, and bring him a Ring to put on, and give him Money for that Service.</p>
+               <p>And hath not this also been derived from the <hi>Pope, Papists</hi> and <hi>Heathen,</hi> who Marryed with the Ring? and not from Christ and his Apostles; which Practice of theirs herein they could never prove, or make good by Scripture, from Christ and the Apostles.</p>
+               <p>And also, We have suffered for bearing our Testimony against their Priests Education at Schools, and their taking of Degrees, as <hi>Batchelors</hi> and <hi>Masters of Art,</hi> and <hi>Doctors of Divinity, &amp;c.</hi> and against their Garbs of White Coats and Black Coats, and their being called of men Masters, like the proud <hi>Pharisees,</hi> and to be called Gracious Lords, like the <hi>Gentiles.</hi>
+               </p>
+               <p>And are not all these things from the <hi>Pope</hi> and <hi>Papists,</hi> and the <hi>Heathen?</hi> and not from Christ nor the Apostles.</p>
+               <p>For Christ forbids his Ministers to be called of men Masters; <hi>For you have but one Master, even Christ; and you are all Brethren;</hi> and that <hi>they should not exercise Lordship one over another, like the</hi>
+                  <pb n="16" facs="tcp:47378:9"/>Gentiles; and be called <hi>Gracious Lords;</hi> for it should not be so amongst them.</p>
+               <p>And the Apostle <hi>Peter</hi> exhorted, <hi>That they should feed the Flock of God, but not to be as Lord's over Gods Inheritance,</hi> as in 1 <hi>Pet.</hi> 5. <hi>In the World there be Lord's many; but to us but One Lord Jesus Christ, by whom were all things made; and one Lord God, the Creator of all; and one Faith, and one Baptism:</hi> And Christ alone is the one saving Baptizer.</p>
+               <p>And therefore, how can the Pope, and his Bishops and Cardinals say, <hi>They are the Successors of Peter,</hi> when they are called Lords? which <hi>Peter</hi> forbids any of his Successors to be called Lords; <hi>but to be Examples to the Flock.</hi> And so, in this they are Transgressors of <hi>Peter</hi>'s Doctrine and Command, and Christ's, who hath said, <hi>They should not be called Gracious Lords, like the</hi> Gentiles.</p>
+               <p>And <hi>Christ</hi> saith, <hi>whom God hath joyn'd together, let no man put assunder.</hi> So he doth not say, whom the Priest shall joyn together, or Marry with the Ring; But, <hi>whom God joyn<g ref="char:EOLhyphen"/>eth together, let no man put assunder.</hi>
+               </p>
+               <p>But amongst the Sects aforesaid, the Priests have Mo<g ref="char:EOLhyphen"/>ney for Joyning; and also will put assunder and Divorce.</p>
+               <p n="3">3dly, Because we will not Bow and put off our Hats, and cannot say You to a Single Person, but Thou; and because we will not Swear at all.</p>
+               <p>And is not all this from the Pope and Pa<g ref="char:EOLhyphen"/>pists, and not from Christ and his Apostles? For where did ever they cast any into Prison for not putting off their Hats to them, though <hi>Every Knee must bow to the Name of Jesus?</hi>
+               </p>
+               <p>But the Apostle doth not say, that every one must bow the Knee to the Apostles, or the Pope, and that they must be uncovered to them; for the Apostle taught, <hi>That
+<pb n="17" facs="tcp:47378:9"/>they must be Uncovered in their Praying or Prophecying to the Lord, because man is the Image of God:</hi> But he doth not say, they should be uncovered to men, or bow the Knee to them, but to the Name of Jesus, and to God the Father.</p>
+               <p n="4">4thly, And because we cannot Swear and take Oathes, have we suffered, and been cast in Prison. And hath not this come from the Pope, and Papists, and Heathen, to amongst the Christians, and not from Christ and his Apostles?</p>
+               <p>For Christ said, <hi>Swear not at all; though they had Sworn in the old Covenant, and they then in the old Time were not to Swear falsly, but truly, and to perform their Oathes to the Lord:</hi> But Christ in his new Covenant of Grace, and in his Gospel saith, <hi>Swear not at all, but let your Yea be Yea, and your Nay, Nay; for whatsoever is more than this cometh of Evil.</hi>
+               </p>
+               <p>And the Apostle <hi>James</hi> said, <hi>Above all things, my Bre<g ref="char:EOLhyphen"/>thren, Swear not, neither by Heaven, nor by Earth, nor by any other oath, lest you fall into Condemnation.</hi>
+               </p>
+               <p>So whether must we follow Christ and the Apostles, or the Pope and his Papists and Jesuits, and the <hi>Heathen,</hi> or others that uphold their Principles?</p>
+               <p>So in most of the Things and Causes that we have suf<g ref="char:EOLhyphen"/>fered, it hath been for bearing a Testimony against <hi>Popery,</hi> and the <hi>Heathenish</hi> and <hi>Jewish</hi> Inventions and Traditions.</p>
+               <p>For are not Tythes, Baster-reckonings and Midsum<g ref="char:EOLhyphen"/>mer-dues, their old Mass-house and Clerks Wages, with their Preaching Funeral Sermons, and their Mortuaries, and Churching of Women, and Sprinkling little Infants, and Signing them with the Sign of the Cross, and God<g ref="char:EOLhyphen"/>fathers
+<pb n="18" facs="tcp:47378:10"/>and God mothers, and their Swearing, and their Preaching for Money, and by the Hour-Glass, and their making of Ministers at Schools and Colledges, with their Titles of <hi>Batchelors, Masters</hi> and <hi>Doctors,</hi> and calling Bishops <hi>Gracious Lords;</hi> and their taking of their Degrees, and their expectation of being bowed unto, and having You said to one of them, with their distingui<g ref="char:EOLhyphen"/>shing Garments, and White and Black Coats, &amp;c.</p>
+               <p>Is not all this Trumpery, and much more of the same sort from the <hi>Pope, Papists, Heathen</hi> or <hi>Jews,</hi> and not from Christ nor the Apostles?</p>
+               <p>And have not these been, many of them, the chief things for which we have been Imprisoned &amp; Persecuted, and some Banished; and for Meeting together in Houses, as the Apostles and Saints did; yea, Christ himself had his Meetings upon Mountains, and preached out of Ships. Yea, many Thousands of us have suffered Im<g ref="char:EOLhyphen"/>prisonment and Spoiling of Goods; and some were Ba<g ref="char:EOLhyphen"/>nished in <hi>Oliver</hi>'s dayes, and since, for not joyning to these things, which originally came from the <hi>Papists,</hi> or <hi>Heathens,</hi> or <hi>Jews;</hi> which Practice of theirs in these things we have born Testimony against, they could ne<g ref="char:EOLhyphen"/>ver make good by Scripture of the new Testament.</p>
+               <p>And therefore, how can either the <hi>Presbyterians, In<g ref="char:EOLhyphen"/>dependents, Anabaptists</hi> or <hi>Episcopalians</hi> brand us for being <hi>Papists,</hi> or Jesuitically affected; when that our Sufferings have been this thirty Years, or more; some of us for not Conforming to those things aforesaid, which came from the <hi>Pope</hi> and <hi>Papists, Jews</hi> and <hi>Heathens?</hi>
+               </p>
+               <p>And they that live in those Popish things, which they cannot make good by the Scripture of the new Testa<g ref="char:EOLhyphen"/>ment, and yet say, <hi>It is their Rule,</hi> such are Popishly affected themselves.</p>
+               <pb n="19" facs="tcp:47378:10"/>
+               <p>But we are the <hi>True Protestant-Christians,</hi> and in the same Power and Spirit the Apostles were in, and do pro<g ref="char:EOLhyphen"/>test against all that which the Apostatized Spirit hath set up, which is in the Error, from that Power and Spirit the Apostles were in.</p>
+               <p>So the Doctrines, Commandments, Ordinances and Traditions, that this Spirit of Error hath set up, which is erred from that Power and Spirit the Apostles were in, we cannot touch, taste, handle nor joyn with.</p>
+               <p n="5">5thly, Is not all the Observing of Holy Dayes, and making of Holy Dayes, as <hi>Christmass, Candlemass, Michael<g ref="char:EOLhyphen"/>mass, Easter, Whitsentide,</hi> and their <hi>Lents,</hi> and calling their Dayes and Moneths by the <hi>Heathens</hi> Names, as is in their <hi>Almanacks,</hi> from the <hi>Pope, Papists</hi> and <hi>Heathens,</hi> and not from Christ nor the Apostles?</p>
+               <p>And have not we suffered Imprisonment and Spoiling of Goods, for not Observing their Holy Dayes, so called?</p>
+               <p>And was it not the Work and Labour of the Apostle to bring People off from observing Dayes, Moneths, Times and Years? and them that did go into such things (to wit, Observing of Dayes) the Apostle told them, That <hi>he was afraid he had bestowed labour in vain upon them,</hi>
+               </p>
+               <p>Therefore, as I said before, how can any in Truth and Righteousness, brand us as Papists, when we have suffered by you that call your selves <hi>Protestants,</hi> for denying such Popery as you allow of; and have spoiled our Goods for not observing your Popish Holy Dayes, and other Popish Things? And yet you say, <hi>The Scrip<g ref="char:EOLhyphen"/>ture is your Rule,</hi> when you have no such Command in the new Testament, to observe Dayes, nor those things afore-mentioned, but the contrary.</p>
+               <pb n="20" facs="tcp:47378:11"/>
+               <p>And so, for bearing a Testimony, and Protesting a<g ref="char:EOLhyphen"/>gainst such things which you have not from Christ nor the Apostles, but was set up by that Power and Spirit, which is erred from the Power and Spirit the Apostles were in; and for bearing a Testimony against the Works and Fruits of this Erring Spirit, have we suffered by you called <hi>Protestants,</hi> and by the <hi>Papists</hi> also.</p>
+               <p>So our Sufferings have been because we could not joyn to that which you have had from the <hi>Papists, Heathens</hi> and <hi>Jews,</hi> and not from Christ nor the Apostles.</p>
+               <p>I say, We who are of the Houshold of the True Ca<g ref="char:EOLhyphen"/>tholick Faith, in which the Church was in the Apostles dayes, have suffered by you, and been branded as <hi>Papists;</hi> whereas in Truth we are the true <hi>Protestant-Christians,</hi> bearing Testimony against all <hi>Popish, Heathenish</hi> and <hi>Jew<g ref="char:EOLhyphen"/>ish Inventions,</hi> which have been set up by that Spirit which is erred from that Power and Spirit the Apostles were in.</p>
+               <p>So as <hi>Moses</hi> the Servant was faithful over his House in the Old Covenant, and the Law of Works; so Christ the Son of God is over his Spiritual House, in his New Covenant of Light, Life and Grace, whose House we are.</p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47378:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
